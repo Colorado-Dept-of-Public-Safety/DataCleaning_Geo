@@ -1,5 +1,5 @@
 # DataCleaning Jupyter Notebook
-Data Cleaning Jupyter Notebook for Geospatial Cleaning. 
+Data Cleaning Jupyter Notebook for Geospatial Data. 
 
 This notebook outlines various data cleaning processes including: 
 <p> 1.) Removing Duplicate Rows </p>
